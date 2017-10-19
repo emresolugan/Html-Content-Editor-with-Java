@@ -5,14 +5,19 @@ create an html file with this data.
 
 These are the html tags and their equivalent expressions..
   
-  [![Ads_z.png](https://s25.postimg.org/74k91hzyn/Ads_z.png)](https://postimg.org/image/cfz5m7m17/)
+![foto-1](https://user-images.githubusercontent.com/12279132/31767500-fcb0584c-b4d3-11e7-8eab-4338608959fa.png)
 
 Example text:
 
-[![cba.png](https://s25.postimg.org/x6honp36n/cba.png)](https://postimg.org/image/8pzit82fv/)
+![foto-2](https://user-images.githubusercontent.com/12279132/31767501-fcd214b4-b4d3-11e7-8b36-bb1e4b3e4c3e.png)
 
 Program translates this to output.html
 
 Output.html
 
-[![abc.png](https://s25.postimg.org/rpz0ti4pr/abc.png)](https://postimg.org/image/s2qezomzf/)
+![foto-3](https://user-images.githubusercontent.com/12279132/31767502-fcf2d8ac-b4d3-11e7-9391-52f1629b91a6.png)
+
+
+
+
+
